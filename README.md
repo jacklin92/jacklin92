@@ -1,4 +1,4 @@
-# GDSC Python Course
+# ABOUT ME
 ## 大家好! 我是WJ🐢
 - [2023-2024 NKUST GDSC Core Team Member](https://gdsc.community.dev/national-kaohsiung-university-of-science-and-technology/)
 - NKUST GDSC 企劃/課程組
