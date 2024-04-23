@@ -7,14 +7,8 @@
 - [『第二次社課』📣 進擊的程式世界！Python基礎課程第2彈](https://reurl.cc/E1NlzA)
 - 高科大資管系三年級
 ### 常用的語言
-#### 擅長
-- Python
-#### 較熟練
-- Java
-- MySQL
-- Javascript
-#### 基礎
-- HTML5
-- CSS3
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacklin92" alt="Use Languages" />
+</div>
 ### 聯繫方式
 📧:jacklin92xxx@gmail.com
