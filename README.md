@@ -5,7 +5,7 @@
 - 高科大資管系四年級
 ### Languages
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=" alt="Use Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacklin92" alt="Use Languages" />
 </div>
 ### 聯繫方式
 📧:jacklin92xxx@gmail.com
